@@ -1,0 +1,11 @@
+newsletter:
+    date: '2015-01-01'
+    from: 'test@test.com'
+    webmaster: &id1
+        'webmaster@webmaster.com'
+    subject: 'test newsletter subject'
+    content: >
+        bla bla
+        bla bla
+    email_list:
+        - x@x.com
